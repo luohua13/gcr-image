@@ -1,1 +1,1 @@
-From gcr.io/istio-testing/build-tools:master-370c3316bcb3444f0c07806ff731edd0e8fc2041
+From gcr.io/istio-testing/build-tools:release-1.20-7a5a6eaafb86469d7796ab193153d04e437c85ad
